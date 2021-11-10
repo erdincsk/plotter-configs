@@ -1,8 +1,8 @@
 plotter-1:
-        edu: [ 1, 2, 3, 4, 68 ]
+        edu: [ 1, 2, 3, 76, 68 ]
         max_tib: 60
 plotter-2:
-        edu: [ 5, 6, 7, 8, 69 ]
+        edu: [ 77, 6, 7, 8, 69 ]
         max_tib: 60
 plotter-3:
         edu: [ 9, 10, 11, 12, 70 ]

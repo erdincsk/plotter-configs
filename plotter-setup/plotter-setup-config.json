@@ -1,12 +1,64 @@
 {
 	"erdinc": 
 		{
-			"key": "asd",
-			"aa": "deneme"
+			"config-zip": 					"1-J35f-SRRfhxc03gHO1SBP7pYNPP6QTv",
+			"farmer-key": 					"b89945a2eb2e329a511d1c3be2c0ae440b9f18eced90767d70e905f86275571f2c386a1e3c0d34b6a8bd0bc9a67bd9e0",
+			"pool-key": 					"8c3f58572750aef49e16bf97e6ade3f271ccb9efa4f3de21dbd4b584f67785b19cc78853035b30b5b6bf776f20ca469e",
+			"nft-contract-key": 			"xch1r38p0ngez2ulufejwuwvh9u7azs7fq9kvh00na6wd0rnsmcytdgsr7k4ep",
+			"discord-notification-link": 	"https://discord.com/api/webhooks/891106267802791946/7iZqXQOgFuH_K_vT7_BLHUgaXxAx8uviBBM_4MvpRR33QrZRdXjDz9abQ-Q3gjX-GJxD"
+		},
+
+	"burak": 
+		{
+			"config-zip": 					"XXX",
+			"farmer-key": 					"XXX",
+			"pool-key": 					"XXX",
+			"nft-contract-key": 			"XXX",
+			"discord-notification-link": 	"XXX"
 		},
 
 	"rads": 
 		{
-			"key": "asd"
+			"config-zip": 					"XXX",
+			"farmer-key": 					"XXX",
+			"pool-key": 					"XXX",
+			"nft-contract-key": 			"XXX",
+			"discord-notification-link": 	"XXX"
+		},
+
+	"tlp": 
+		{
+			"config-zip": 					"XXX",
+			"farmer-key": 					"XXX",
+			"pool-key": 					"XXX",
+			"nft-contract-key": 			"XXX",
+			"discord-notification-link": 	"XXX"
+		},
+
+	"xayer": 
+		{
+			"config-zip": 					"XXX",
+			"farmer-key": 					"XXX",
+			"pool-key": 					"XXX",
+			"nft-contract-key": 			"XXX",
+			"discord-notification-link": 	"XXX"
+		},
+
+	"orhan": 
+		{
+			"config-zip": 					"XXX",
+			"farmer-key": 					"XXX",
+			"pool-key": 					"XXX",
+			"nft-contract-key": 			"XXX",
+			"discord-notification-link": 	"XXX"
+		},
+
+	"okan": 
+		{
+			"config-zip": 					"XXX",
+			"farmer-key": 					"XXX",
+			"pool-key": 					"XXX",
+			"nft-contract-key": 			"XXX",
+			"discord-notification-link": 	"XXX"
 		}
 }

@@ -10,55 +10,55 @@
 
 	"burak": 
 		{
-			"config-zip": 					"XXX",
-			"farmer-key": 					"XXX",
-			"pool-key": 					"XXX",
-			"nft-contract-key": 			"XXX",
-			"discord-notification-link": 	"XXX"
+			"config-zip": "XXX",
+			"farmer-key": "XXX",
+			"pool-key": "XXX",
+			"nft-contract-key": "XXX",
+			"discord-notification-link": "XXX"
 		},
 
 	"rads": 
 		{
-			"config-zip": 					"XXX",
-			"farmer-key": 					"XXX",
-			"pool-key": 					"XXX",
-			"nft-contract-key": 			"XXX",
-			"discord-notification-link": 	"XXX"
+			"config-zip": "XXX",
+			"farmer-key": "XXX",
+			"pool-key": "XXX",
+			"nft-contract-key": "XXX",
+			"discord-notification-link": "XXX"
 		},
 
 	"tlp": 
 		{
-			"config-zip": 					"XXX",
-			"farmer-key": 					"XXX",
-			"pool-key": 					"XXX",
-			"nft-contract-key": 			"XXX",
-			"discord-notification-link": 	"XXX"
+			"config-zip": "XXX",
+			"farmer-key": "XXX",
+			"pool-key": "XXX",
+			"nft-contract-key": "XXX",
+			"discord-notification-link": "XXX"
 		},
 
 	"xayer": 
 		{
-			"config-zip": 					"XXX",
-			"farmer-key": 					"XXX",
-			"pool-key": 					"XXX",
-			"nft-contract-key": 			"XXX",
-			"discord-notification-link": 	"XXX"
+			"config-zip": "XXX",
+			"farmer-key": "XXX",
+			"pool-key": "XXX",
+			"nft-contract-key": "XXX",
+			"discord-notification-link": "XXX"
 		},
 
 	"orhan": 
 		{
-			"config-zip": 					"XXX",
-			"farmer-key": 					"XXX",
-			"pool-key": 					"XXX",
-			"nft-contract-key": 			"XXX",
-			"discord-notification-link": 	"XXX"
+			"config-zip": "XXX",
+			"farmer-key": "XXX",
+			"pool-key": "XXX",
+			"nft-contract-key": "XXX",
+			"discord-notification-link": "XXX"
 		},
 
 	"okan": 
 		{
-			"config-zip": 					"XXX",
-			"farmer-key": 					"XXX",
-			"pool-key": 					"XXX",
-			"nft-contract-key": 			"XXX",
-			"discord-notification-link": 	"XXX"
+			"config-zip": "XXX",
+			"farmer-key": "XXX",
+			"pool-key": "XXX",
+			"nft-contract-key": "XXX",
+			"discord-notification-link": "XXX"
 		}
 }

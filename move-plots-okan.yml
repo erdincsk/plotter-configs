@@ -1,0 +1,45 @@
+plotter-1:
+        edu: [ 1, 2, 3, 4, 5, 6 ]
+        max_tib: 30
+plotter-2:
+        edu: [ 7, 8, 9, 10, 11, 12 ]
+        max_tib: 30
+plotter-3:
+        edu: [ 13, 14, 15, 16, 17 ]
+        max_tib: 30
+plotter-4:
+        edu: [ 18, 19, 20, 21, 22 ]
+        max_tib: 30
+plotter-5:
+        edu: [ 23, 24, 25, 26, 27 ]
+        max_tib: 30
+plotter-6:
+        edu: [ 28, 29, 30, 31, 32 ]
+        max_tib: 30
+plotter-7:
+        edu: [ 33, 34, 35, 36, 37 ]
+        max_tib: 30
+plotter-8:
+        edu: [ 38, 39, 40, 41, 42 ]
+        max_tib: 30
+plotter-9:
+        edu: [ 43, 44, 45, 46, 47 ]
+        max_tib: 30
+plotter-10:
+        edu: [ 48, 49, 50, 51, 52 ]
+        max_tib: 30
+plotter-11:
+        edu: [ 53, 54, 55, 56, 57 ]
+        max_tib: 30
+plotter-12:
+        edu: [ 58, 59, 60, 61, 62 ]
+        max_tib: 30
+plotter-13:
+        edu: [ 63, 64, 65, 66, 67 ]
+        max_tib: 30
+plotter-14:
+        edu: [ 68, 69, 70, 71, 72 ]
+        max_tib: 30
+plotter-15:
+        edu: [ 73, 74, 75, 76, 77 ]
+        max_tib: 30

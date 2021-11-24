@@ -10,7 +10,7 @@
 
 	"burak": 
 		{
-			"config-zip": "XXX",
+			"cz": "XXX",
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
@@ -19,7 +19,7 @@
 
 	"rads": 
 		{
-			"config-zip": "XXX",
+			"cz": "XXX",
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
@@ -28,7 +28,7 @@
 
 	"tlp": 
 		{
-			"config-zip": "XXX",
+			"cz": "XXX",
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
@@ -37,7 +37,7 @@
 
 	"xayer": 
 		{
-			"config-zip": "XXX",
+			"cz": "XXX",
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
@@ -46,7 +46,7 @@
 
 	"orhan": 
 		{
-			"config-zip": "XXX",
+			"cz": "XXX",
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
@@ -55,7 +55,7 @@
 
 	"okan": 
 		{
-			"config-zip": "XXX",
+			"cz": "XXX",
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",

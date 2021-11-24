@@ -5,7 +5,7 @@
 			"fk": "b89945a2eb2e329a511d1c3be2c0ae440b9f18eced90767d70e905f86275571f2c386a1e3c0d34b6a8bd0bc9a67bd9e0",
 			"pk": "8c3f58572750aef49e16bf97e6ade3f271ccb9efa4f3de21dbd4b584f67785b19cc78853035b30b5b6bf776f20ca469e",
 			"nck": "xch1r38p0ngez2ulufejwuwvh9u7azs7fq9kvh00na6wd0rnsmcytdgsr7k4ep",
-			"discord-notification-link": "https://discord.com/api/webhooks/891106267802791946/7iZqXQOgFuH_K_vT7_BLHUgaXxAx8uviBBM_4MvpRR33QrZRdXjDz9abQ-Q3gjX-GJxD"
+			"discord": "https://discord.com/api/webhooks/891106267802791946/7iZqXQOgFuH_K_vT7_BLHUgaXxAx8uviBBM_4MvpRR33QrZRdXjDz9abQ-Q3gjX-GJxD"
 		},
 
 	"burak": 
@@ -14,7 +14,7 @@
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
-			"discord-notification-link": "XXX"
+			"discord": "XXX"
 		},
 
 	"rads": 
@@ -23,7 +23,7 @@
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
-			"discord-notification-link": "XXX"
+			"discord": "XXX"
 		},
 
 	"tlp": 
@@ -32,7 +32,7 @@
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
-			"discord-notification-link": "XXX"
+			"discord": "XXX"
 		},
 
 	"xayer": 
@@ -41,7 +41,7 @@
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
-			"discord-notification-link": "XXX"
+			"discord": "XXX"
 		},
 
 	"orhan": 
@@ -50,7 +50,7 @@
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
-			"discord-notification-link": "XXX"
+			"discord": "XXX"
 		},
 
 	"okan": 
@@ -59,6 +59,6 @@
 			"fk": "XXX",
 			"pk": "XXX",
 			"nck": "XXX",
-			"discord-notification-link": "XXX"
+			"discord": "XXX"
 		}
 }

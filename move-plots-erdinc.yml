@@ -55,3 +55,7 @@ plotter-18:
 plotter-19:
         edu: [ 399, 400, 401, 402, 403 ]
         max_tib: 40
+plotter-20:
+        edu: [ 404, 405, 406, 407, 408 ]
+        max_tib: 40        
+     

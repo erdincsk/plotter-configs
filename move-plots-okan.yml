@@ -43,3 +43,51 @@ plotter-14:
 plotter-15:
         edu: [ 73, 74, 75, 76, 77 ]
         max_tib: 30
+plotter-16:
+        edu: [ 200, 201, 202, 203, 204 ]
+        max_tib: 40
+plotter-17:
+        edu: [ 205, 206, 207, 208, 209 ]
+        max_tib: 40
+plotter-18:
+        edu: [ 210, 211, 212, 213, 214 ]
+        max_tib: 40
+plotter-19:
+        edu: [ 215, 216, 217, 218, 219 ]
+        max_tib: 40
+plotter-20:
+        edu: [ 220, 221, 222, 223, 224 ]
+        max_tib: 40
+plotter-21:
+        edu: [ 225, 226, 227, 228, 229 ]
+        max_tib: 40
+plotter-22:
+        edu: [ 230, 231, 232, 233, 234 ]
+        max_tib: 40
+plotter-23:
+        edu: [ 235, 236, 237, 238, 239 ]
+        max_tib: 40
+plotter-24:
+        edu: [ 240, 241, 242, 243, 244 ]
+        max_tib: 40
+plotter-25:
+        edu: [ 245, 246, 247, 248, 249 ]
+        max_tib: 40
+plotter-26:
+        edu: [ 250, 251, 252, 253, 254 ]
+        max_tib: 40
+plotter-27:
+        edu: [ 255, 256, 257, 258, 259 ]
+        max_tib: 40
+plotter-28:
+        edu: [ 260, 261, 262, 263, 264 ]
+        max_tib: 40
+plotter-29:
+        edu: [ 265, 266, 267, 268, 269 ]
+        max_tib: 40
+plotter-30:
+        edu: [ 270, 271, 272, 273, 274 ]
+        max_tib: 40
+plotter-31:
+        edu: [ 275, 276, 277, 278, 279 ]
+        max_tib: 40       

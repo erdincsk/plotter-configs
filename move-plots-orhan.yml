@@ -60,49 +60,49 @@ plotter-20:
         max_tib: 30
 plotter-21:
         edu: [ 300, 301, 302, 303, 304 ]
-        max_tib: 30
+        max_tib: 40
 plotter-22:
         edu: [ 305, 306, 307, 308, 309 ]
-        max_tib: 30
+        max_tib: 40
 plotter-23:
         edu: [ 310, 311, 312, 313, 314 ]
-        max_tib: 30
+        max_tib: 40
 plotter-24:
         edu: [ 315, 316, 317, 318, 319 ]
-        max_tib: 30
+        max_tib: 40
 plotter-25:
         edu: [ 320, 321, 322, 323, 324 ]
-        max_tib: 30
+        max_tib: 40
 plotter-26:
         edu: [ 325, 326, 327, 328, 329 ]
-        max_tib: 30
+        max_tib: 40
 plotter-27:
         edu: [ 330, 331, 332, 333, 334 ]
-        max_tib: 30
+        max_tib: 40
 plotter-28:
         edu: [ 335, 336, 337, 338, 339 ]
-        max_tib: 30
+        max_tib: 40
 plotter-29:
         edu: [ 340, 341, 342, 343, 344 ]
-        max_tib: 30
+        max_tib: 40
 plotter-30:
         edu: [ 345, 346, 347, 348, 349 ]
-        max_tib: 30
+        max_tib: 40
 plotter-31:
         edu: [ 350, 351, 352, 353, 354 ]
-        max_tib: 30
+        max_tib: 40
 plotter-32:
         edu: [ 355, 356, 357, 358, 359 ]
-        max_tib: 30
+        max_tib: 40
 plotter-33:
         edu: [ 360, 361, 362, 363, 364 ]
-        max_tib: 30
+        max_tib: 40
 plotter-34:
         edu: [ 365, 366, 367, 368, 369 ]
-        max_tib: 30
+        max_tib: 40
 plotter-35:
         edu: [ 370, 371, 372, 373, 374 ]
-        max_tib: 30
+        max_tib: 40
 plotter-36:
         edu: [ 375, 376, 377, 378, 379 ]
-        max_tib: 30
+        max_tib: 40

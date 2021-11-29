@@ -106,3 +106,21 @@ plotter-35:
 plotter-36:
         edu: [ 375, 376, 377, 378, 379 ]
         max_tib: 40
+plotter-37:
+        edu: [ 380, 381, 382, 383, 384 ]
+        max_tib: 40
+plotter-38:
+        edu: [ 385, 386, 387, 388, 389 ]
+        max_tib: 40
+plotter-39:
+        edu: [ 390, 391, 392, 393, 394 ]
+        max_tib: 40
+plotter-40:
+        edu: [ 395, 396, 397, 398, 399 ]
+        max_tib: 40
+plotter-41:
+        edu: [ 400, 401, 402, 403, 404 ]
+        max_tib: 40
+plotter-42:
+        edu: [ 405, 406, 407, 408, 409 ]
+        max_tib: 40

@@ -1,18 +1,18 @@
 plotter-1:
         edu: [ 37, 38, 39, 40, 5, 6 ]
-        max_tib: 30
+        max_tib: 32
 plotter-2:
         edu: [ 7, 8, 9, 10, 11, 12 ]
-        max_tib: 30
+        max_tib: 32
 plotter-3:
         edu: [ 13, 14, 15, 16, 17, 18 ]
-        max_tib: 30
+        max_tib: 32
 plotter-4:
         edu: [ 19, 20, 21, 22, 23, 24 ]
         max_tib: 35
 plotter-5:
         edu: [ 25, 26, 27, 28, 29, 30 ]
-        max_tib: 30
+        max_tib: 32
 plotter-6:
         edu: [ 31, 32, 33, 34, 35, 36 ]
         max_tib: 30

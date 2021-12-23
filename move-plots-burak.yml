@@ -2,7 +2,7 @@ plotter-1:
         edu: [ 1, 2, 3, 4, ]
         max_tib: 32
 plotter-2:
-        edu: [ 257, 258, 259, 260, 261, 262 ]
+        edu: [ 1, 2, 3, 4, ]
         max_tib: 32
 plotter-3:
         edu: [ 13, 14, 15, 16, 17, 18 ]

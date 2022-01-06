@@ -2,16 +2,16 @@ plotter-1:
         edu: [ 1, 2, 3, 4, 5, 6, 7 ]
         max_tib: 32
 plotter-2:
-        edu: [ 1, 2, 3, 4, ]
+        edu: [ 1, 2, 3, 4, 5, 6 ]
         max_tib: 32
 plotter-3:
         edu: [ 1, 2, 3, 4, 5, 6 ]
         max_tib: 32
 plotter-4:
-        edu: [ 1, 2, 3, 4, ]
+        edu: [ 1, 2, 3, 4, 5, 6 ]
         max_tib: 35
 plotter-5:
-        edu: [ 1, 2, 3, 4, ]
+        edu: [ 1, 2, 3, 4, 5, 6 ]
         max_tib: 32
 plotter-6:
         edu: [ 31, 32, 33, 34, 35, 36 ]

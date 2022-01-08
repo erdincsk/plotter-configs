@@ -1,33 +1,33 @@
 plotter-1:
         edu: [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-        max_tib: 32
+        max_tib: 332
 plotter-2:
         edu: [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ]
-        max_tib: 32
+        max_tib: 332
 plotter-3:
         edu: [ 1, 2, 3, 4, 5, 6 ]
-        max_tib: 32
+        max_tib: 332
 plotter-4:
         edu: [ 1, 2, 3, 4, 5, 6 ]
-        max_tib: 35
+        max_tib: 335
 plotter-5:
         edu: [ 1, 2, 3, 4, 5, 6 ]
-        max_tib: 32
+        max_tib: 332
 plotter-6:
         edu: [ 1, 2, 3, 4, 5, 6, 7 ]
-        max_tib: 30
+        max_tib: 330
 plotter-7:
         edu: [ 1, 2, 3, 4, 5, 6, 7 ]
-        max_tib: 30
+        max_tib: 330
 plotter-8:
         edu: [ 1, 2, 3, 4, 5, 6, 7 ]
-        max_tib: 30
+        max_tib: 330
 plotter-9:
         edu: [ 1, 2, 3, 4, 5, 6, 7 ]
-        max_tib: 30
+        max_tib: 330
 plotter-10:
         edu: [ 1, 2, 3, 4, 5, 6, 7 ]
-        max_tib: 30
+        max_tib: 330
 plotter-11:
         edu: [ 61, 62, 63, 64, 65, 66 ]
         max_tib: 30

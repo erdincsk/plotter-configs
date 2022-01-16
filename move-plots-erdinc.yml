@@ -1,11 +1,11 @@
 plotter-1:
-        edu: [ 314, 315, 316, 317, 318 ]
+        edu: [ 1, 2 ]
         max_tib: 50
 plotter-2:
-        edu: [ 319, 320, 321, 322, 323 ]
+        edu: [ 3, 4 ]
         max_tib: 50
 plotter-3:
-        edu: [ 324, 325, 326, 327, 328 ]
+        edu: [ 5, 6 ]
         max_tib: 50
 plotter-4:
         edu: [ 329, 330, 331, 332, 333 ]

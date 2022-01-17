@@ -2,40 +2,40 @@ plotter-1:
         edu: [ 1, 2 ]
         max_tib: 50
 plotter-2:
-        edu: [ 3, 4 ]
+        edu: [ 1, 2 ]
         max_tib: 50
 plotter-3:
-        edu: [ 5, 6 ]
+        edu: [ 1, 2]
         max_tib: 50
 plotter-4:
-        edu: [ 329, 330, 331, 332, 333 ]
+        edu: [ 3, 4 ]
         max_tib: 50
 plotter-5:
-        edu: [ 334, 335, 336, 337, 338 ]
+        edu: [ 3, 4 ]
         max_tib: 50
 plotter-6:
-        edu: [ 339, 340, 341, 342, 343 ]
+        edu: [ 3, 4 ]
         max_tib: 50
 plotter-7:
-        edu: [ 344, 345, 346, 347, 348 ]
+        edu: [ 5, 6 ]
         max_tib: 50
 plotter-8:
-        edu: [ 349, 350, 351, 352, 353 ]
+        edu: [ 5, 6 ]
         max_tib: 50
 plotter-9:
-        edu: [ 354, 355, 356, 357, 358 ]
+        edu: [5, 6 ]
         max_tib: 50
 plotter-10:
-        edu: [ 359, 360, 361, 362, 363 ]
+        edu: [ 7, 8 ]
         max_tib: 50
 plotter-11:
-        edu: [ 364, 365, 366, 367, 368 ]
+        edu: [ 7, 8 ]
         max_tib: 50
 plotter-12:
-        edu: [ 369, 370, 371, 372, 373 ]
+        edu: [ 7, 8 ]
         max_tib: 50
 plotter-13:
-        edu: [ 374, 375, 376, 377, 378 ]
+        edu: [ 7, 8 ]
         max_tib: 50
 plotter-14:
         edu: [ 379, 380, 381, 382, 383 ]

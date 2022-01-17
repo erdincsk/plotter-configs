@@ -5,7 +5,7 @@ plotter-2:
         edu: [ 1, 2 ]
         max_tib: 50
 plotter-3:
-        edu: [ 1, 2]
+        edu: [ 1, 2 ]
         max_tib: 50
 plotter-4:
         edu: [ 3, 4 ]
@@ -23,7 +23,7 @@ plotter-8:
         edu: [ 5, 6 ]
         max_tib: 50
 plotter-9:
-        edu: [5, 6 ]
+        edu: [ 5, 6 ]
         max_tib: 50
 plotter-10:
         edu: [ 7, 8 ]

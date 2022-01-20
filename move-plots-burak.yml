@@ -20,7 +20,7 @@ plotter-7:
         edu: [ 1, 2, 3, 4, 5, 6, ]
         max_tib: 3303
 plotter-8:
-        edu: [ 1, 2, 3, 4, 5, 6, ]
+        edu: [ 1, 2, 3, 4, 5, 6, 7, 8, ]
         max_tib: 3303
 plotter-9:
         edu: [ 1, 2, 3, 4, 5, 6, ]

@@ -1,42 +1,42 @@
 plotter-1:
         edu: [ 9, 10 ]
-        max_tib: 100
+        max_tib: 200
 plotter-2:
         edu: [ 9, 10 ]
-        max_tib: 100
+        max_tib: 200
 plotter-3:
         edu: [ 9, 10 ]
-        max_tib: 100
+        max_tib: 200
 plotter-4:
         edu: [ 9, 10 ]
-        max_tib: 100
+        max_tib: 200
 plotter-5:
         edu: [ 9, 10 ]
-        max_tib: 100
+        max_tib: 200
 plotter-6:
         edu: [ 9, 10 ]
-        max_tib: 100
+        max_tib: 200
 plotter-7:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-8:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-9:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-10:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-11:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-12:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-13:
         edu: [ 11, 12 ]
-        max_tib: 100
+        max_tib: 200
 plotter-14:
         edu: [ 379, 380, 381, 382, 383 ]
         max_tib: 50

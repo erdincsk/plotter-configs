@@ -9,7 +9,7 @@ plotter-3:
         max_tib: 79.2
 plotter-4:
         edu: [ 21, 22 ]
-        max_tib: 200
+        max_tib: 79.2
 plotter-5:
         edu: [ 21, 22 ]
         max_tib: 79.2

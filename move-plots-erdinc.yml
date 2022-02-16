@@ -17,7 +17,7 @@ plotter-6:
         edu: [ 21, 22 ]
         max_tib: 79.2
 plotter-7:
-        edu: [ 23, 24 ]
+        edu: [ 21, 22 ]
         max_tib: 79.2
 plotter-8:
         edu: [ 23, 24 ]
@@ -35,5 +35,8 @@ plotter-12:
         edu: [ 23, 24 ]
         max_tib: 79.2
 plotter-13:
+        edu: [ 23, 24 ]
+        max_tib: 79.2
+plotter-14:
         edu: [ 23, 24 ]
         max_tib: 79.2

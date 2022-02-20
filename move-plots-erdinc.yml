@@ -1,26 +1,26 @@
 plotter-1:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-2:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-3:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-4:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-5:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-6:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-7:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-8:
-        edu: [ 43, 22, 38 ]
+        edu: [ 43, 46, 38 ]
         max_tib: 79.1
 plotter-9:
         edu: [ 44, 45, 39 ]
@@ -41,7 +41,7 @@ plotter-14:
         edu: [ 44, 45, 39 ]
         max_tib: 79.1
 plotter-15:
-        edu: [ 21, 22, 38 ]
+        edu: [ 21, 46, 38 ]
         max_tib: 79.1
 plotter-16:
         edu: [ 44, 45, 39 ]

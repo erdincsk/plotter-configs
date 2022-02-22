@@ -11,7 +11,7 @@ plotter-4:
         edu: [ 89, 90, 91, ]
         max_tib: 3353
 plotter-5:
-        edu: [ 89, 90, 91, 86, ]
+        edu: [ 89, 90, 91, ]
         max_tib: 3323
 plotter-6:
         edu: [ 1, 2, 3, 4, 5, 6, ]

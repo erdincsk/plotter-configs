@@ -1,14 +1,14 @@
 plotter-1:
-        edu: [ 172, 173, ]
+        edu: [ 172, 173, 170, 171 ]
         max_tib: 3332
 plotter-2:
-        edu: [ 173, 172, ]
+        edu: [ 173, 172, 171, 170 ]
         max_tib: 3332
 plotter-3:
-        edu: [ 169, 170, 171, ]
+        edu: [ 170, 171, 172, 173 ]
         max_tib: 3323
 plotter-4:
-        edu: [ 171, 169, 170, ]
+        edu: [ 171, 170, 172, 173 ]
         max_tib: 3353
 plotter-5:
         edu: [ 120, 119, ]

@@ -5,7 +5,7 @@ plotter-2:
         edu: [ 195, 194, 192, ]
         max_tib: 3332
 plotter-3:
-        edu: [ 194, 195, 192, ]
+        edu: [ 192, ]
         max_tib: 3323
 plotter-4:
         edu: [ 177, 178, 179, 174, 175, 176 ]

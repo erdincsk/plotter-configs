@@ -1,5 +1,5 @@
 plotter-1:
-        edu: [ 196, 194, 195, ]
+        edu: [ 195, ]
         max_tib: 3332
 plotter-2:
         edu: [ 196, 195, 194, ]

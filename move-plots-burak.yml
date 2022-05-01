@@ -1,11 +1,11 @@
 plotter-1:
-        edu: [ 197, ]
+        edu: [ 200, 201, 199, ]
         max_tib: 3332
 plotter-2:
-        edu: [ 197, ]
+        edu: [ 201, 200, 199, ]
         max_tib: 3332
 plotter-3:
-        edu: [ 197, ]
+        edu: [ 200, 201, 199, ]
         max_tib: 3323
 plotter-4:
         edu: [ 177, 178, 179, 174, 175, 176 ]

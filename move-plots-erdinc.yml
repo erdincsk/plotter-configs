@@ -1,3 +1,6 @@
 plotter-x:
-        edu: [ 5104, 5105 ]
+        ws: [ 5104, 5105 ]
         max_tib: 79.1
+        sa_folder: 8
+        server_ip: 'http://5.161.76.235:8080'
+

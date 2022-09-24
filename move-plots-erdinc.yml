@@ -2,5 +2,5 @@ plotter-x:
         ws: [21001 ]
         max_tib: 300
         sa_folder: '1'
-        server_ip: 'http://88.99.217.121:7777'
+        server_ip: 'http://5.161.118.174:7777'
 

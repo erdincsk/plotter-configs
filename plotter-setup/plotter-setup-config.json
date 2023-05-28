@@ -1,19 +1,13 @@
 {
-	"mehmet": 
+	"erdinc": 
 		{
 			"fk": "b89945a2eb2e329a511d1c3be2c0ae440b9f18eced90767d70e905f86275571f2c386a1e3c0d34b6a8bd0bc9a67bd9e0",
 			"nck": "xch1deeffdkgc9zvzr66uysnz0xhtcny77sdwsvep03xvfes9v6ctjvqgqgs0j"
 		},
 
-	"erdinc": 
+	"tnt01": 
 		{
 			"fk": "a593d43e85675b9a562a52c11d0a3dfc23ef4d7ec9066f9dcc99fd1ee53cb4e8b55cf89879c268bb324fc19197740dc8",
 			"nck": "xch1xa8aaxv6ydk780gs9lgu2jkcw6en43fqzsv8fr8h5pjekp0hjt9sy8yph9"	
-		},
-
-	"other": 
-		{
-			"fk": "8ecd742c541cc43df8357774d3f4ac571faa04c5ccd0993a313a28b4644770a3b0c4660d0d15aba6be692f59775230e0",
-			"nck": "xch1ecx4avd9k9ulslmskamjstkkmugd9faxqg8c2vr9sa7kmydkygsqymfekk"
 		}
 }

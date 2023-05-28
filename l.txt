@@ -1,0 +1,9 @@
+http://speedtest.tele2.net/100GB.zip
+http://hgd-speedtest-1.tele2.net/100GB.zip
+http://speedtest.tele2.net/50GB.zip
+https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Arabic_x64v1.iso?t=3d74d6fb-dc18-4291-b855-4dd755d2d281&e=1685387311&h=335584dbebef4d1a44107a940ac7423b798348802acc49c6e50108d059de4b40
+https://releases.ubuntu.com/23.04/ubuntu-23.04-desktop-amd64.iso
+https://releases.ubuntu.com/23.04/ubuntu-23.04-live-server-amd64.iso
+https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso
+https://releases.ubuntu.com/22.10/ubuntu-22.10-live-server-amd64.iso
+https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso

@@ -7,3 +7,4 @@ https://releases.ubuntu.com/23.04/ubuntu-23.04-live-server-amd64.iso
 https://releases.ubuntu.com/22.10/ubuntu-22.10-desktop-amd64.iso
 https://releases.ubuntu.com/22.10/ubuntu-22.10-live-server-amd64.iso
 https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
+https://speedtesta.kpn.com/10GiB.bin
